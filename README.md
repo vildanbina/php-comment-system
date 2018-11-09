@@ -7,9 +7,9 @@ This comments system allows the user to add comments and to add replies to a par
 
 The first thing we'll need to do is set up our database. 
 Create a database called **phpsamples**. In source you have a sql file who you can export in your db to execute.
-And in ```
-inclues/db.php 
-``` enter your database config
+And in
+```  inclues/db.php ``` 
+enter your database config
 
 ## Authors
 

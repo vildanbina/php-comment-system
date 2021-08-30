@@ -13,5 +13,5 @@ enter your database config
 
 ## Authors
 
-* **Vildan Bina** - *Full Stack Developer* - [PurpleBooth](https://github.com/vildanbina)
+* **Vildan Bina** - *Full Stack Developer* - [Sidora AG](https://sidora.com)
 
